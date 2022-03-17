@@ -1,0 +1,11 @@
+altgraph==0.17.2
+comtypes==1.1.11
+future==0.18.2
+pefile==2021.9.3
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.2
+pypiwin32==223
+PySimpleGUI==4.57.0
+pyttsx3==2.90
+pywin32==303
+pywin32-ctypes==0.2.0
